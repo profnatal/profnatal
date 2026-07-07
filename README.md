@@ -68,22 +68,11 @@ Public Education Leader • Computer Engineering Student • Building solutions 
 
 ## 📌 What you'll find here
 
-- 📊 Data Analysis Projects
-- 🤖 Artificial Intelligence
-- 🏛 Public Administration Solutions
-- 🎓 Education Technology
-- 💻 Web Development
-- 🐍 Python Projects
-- 🏛 Digital Transformation for Public Education
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=profnatal&theme=algolia&no-frame=true&column=4"/>
-</p>
-
+- Learning projects in Python and Web Development
+- Data Analysis experiments
+- Public Administration and Education solutions
+- AI and automation studies
+  
 ---
 
 ## 📫 Connect
