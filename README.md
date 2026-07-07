@@ -1,162 +1,90 @@
-# Hi there! 👋 I'm Jhon Natal
+<h1 align="center">Hi 👋, I'm Jhon Natal</h1>
 
-### 🇺🇸 Public Education Leader | Technology Student | Building solutions with Data and AI for Public Administration
+<h3 align="center">
+Public Education Leader • Computer Engineering Student • Building solutions for Public Administration with Data & AI
+</h3>
 
-### 🇧🇷 Gestor Público da Educação | Estudante de Tecnologia | Desenvolvendo soluções com Dados e IA para a Administração Pública
-
----
-
-## 🇺🇸 About Me
-
-I'm currently serving as the Municipal Secretary of Education, Culture, Sports and Tourism in Nova Marilândia, Mato Grosso, Brazil.
-
-My professional journey began in Biological Sciences, followed by eight years serving in the Brazilian Army, including participation in the United Nations Peacekeeping Mission in Haiti. Throughout my career, I have also worked as a teacher of Physics and Mathematics and as a laboratory analyst.
-
-Today my main challenge is leading public education while embracing digital transformation.
-
-I'm currently expanding my career toward technology, studying software development, data analysis and artificial intelligence, always with the goal of creating practical solutions for education and public administration.
-
-I believe technology is one of the most powerful tools to improve public services and make better decisions based on data.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhon-natal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jhon_Natal-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=profnatal&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🇧🇷 Sobre mim
+## 👨‍💻 About Me
 
-Atualmente atuo como Secretário Municipal de Educação, Cultura, Esporte e Turismo de Nova Marilândia - Mato Grosso.
-
-Minha trajetória profissional começou nas Ciências Biológicas, seguida por oito anos de serviço no Exército Brasileiro, incluindo participação na Missão de Paz das Nações Unidas no Haiti. Também atuei como professor de Física e Matemática e como analista de laboratório.
-
-Hoje meu principal desafio é liderar a educação pública enquanto conduzo iniciativas de transformação digital.
-
-Atualmente estou direcionando minha carreira para a área de tecnologia, estudando desenvolvimento de software, análise de dados e inteligência artificial, sempre buscando aplicar esses conhecimentos na gestão pública e na educação.
-
-Acredito que a tecnologia é uma das principais ferramentas para tornar os serviços públicos mais eficientes e apoiar decisões baseadas em dados.
+- 🏛 Municipal Secretary of Education, Culture, Sports and Tourism (Brazil)
+- 🎓 Bachelor's Degree in Biological Sciences
+- 🌱 MBA in Environmental Management, Auditing and Expertise
+- 💻 Computer Engineering student
+- 📊 Currently building projects in Data Analysis, AI and Software Development
+- 🚀 Passionate about Digital Transformation in Public Administration
 
 ---
 
-# 🎯 Current Focus | Foco Atual
+## 🎯 Current Focus
 
-- 📊 Data Analysis
 - 🤖 Artificial Intelligence
-- 💻 Software Development
-- 🏛 Digital Transformation in Public Administration
+- 📊 Data Analysis
+- 🏛 GovTech
 - 🎓 Educational Technology
-- 📈 Data-driven Decision Making
+- 💻 Python Development
 
 ---
 
-# 📚 Currently Learning | Atualmente Estudando
+## 🛠 Tech Stack
 
-- Python
-- JavaScript
-- HTML & CSS
-- Git & GitHub
-- SQL
-- Data Analysis
-- Artificial Intelligence
-- Computer Engineering
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux,docker"/>
+
+</p>
 
 ---
 
-# 💼 Professional Background | Experiência Profissional
+## 📈 GitHub Stats
 
-### 🏛 Municipal Secretary of Education, Culture, Sports and Tourism (2021 – Present)
+<p align="center">
 
-Leading initiatives involving:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=profnatal&show_icons=true&theme=github_dark&hide_border=true"/>
 
-- Educational Management
-- Strategic Planning
-- Public Administration
-- Digital Transformation
-- Educational Technology
-- Data-informed Decision Making
-- Team Leadership
-- Project Management
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profnatal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-### 👨‍🏫 Teacher
+## 🔥 Contribution Streak
 
-- Physics
-- Mathematics
-- Elementary Education
-- High School
-- Youth and Adult Education (EJA)
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=profnatal&theme=github-dark&hide_border=true"/>
 
-### 🔬 Laboratory Analyst
-
-Experience in laboratory analysis within the biodiesel industry.
+</p>
 
 ---
 
-### 🪖 Brazilian Army
+## 📌 What you'll find here
 
-Served for eight years, including participation in the United Nations Peacekeeping Mission in Haiti.
-
----
-
-# 🎓 Education
-
-- Bachelor's Degree in Biological Sciences
-- Teaching Degree in Biological Sciences
-- MBA in Environmental Management, Auditing and Expertise
-- Computer Engineering (undergraduate studies)
+- 📊 Data Analysis Projects
+- 🤖 Artificial Intelligence
+- 🏛 Public Administration Solutions
+- 🎓 Education Technology
+- 💻 Web Development
+- 🐍 Python Projects
 
 ---
 
-# 🚀 GitHub Goals
+## 📫 Connect
 
-This GitHub profile documents my learning journey in technology and my projects focused on applying software, data analysis and artificial intelligence to education and public administration.
+📧 **jhonkleiton.natal@hotmail.com** /
+  **prof.nataljhonkleiton@gmail.com**
 
-My goal is to build practical solutions that improve public services through technology.
-
----
-
-# 🛠 Technologies
-
-### Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools I use
-
-- GitHub
-- Google Workspace
-- ower BI – for data visualization and interpretation
-- Looker Studio – for data visualization and interpretation
-- VS Code – beginner
-- Docker – beginner
-- Linux – for programming studies
-- ComfyUI – local AI model image generation
-- Ollama – beginner
-- LM Studio – beginner
+💼 **LinkedIn**
+https://www.linkedin.com/in/jhon-natal/
 
 ---
 
-# 🌱 Interests
-
-- Artificial Intelligence
-- Data Analysis
-- Public Administration
-- Educational Innovation
-- GovTech
-- EdTech
-- Open Source
-
----
-
-# 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhon%20Natal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhon-natal/)
-
-📧 jhonkleiton.natal@hotmail.com
-
----
-
-> "Technology becomes truly meaningful when it helps improve people's lives."
+> *"Technology creates greater impact when it helps improve public services and people's lives."*
