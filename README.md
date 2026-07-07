@@ -74,6 +74,15 @@ Public Education Leader • Computer Engineering Student • Building solutions 
 - 🎓 Education Technology
 - 💻 Web Development
 - 🐍 Python Projects
+- 🏛 Digital Transformation for Public Education
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=profnatal&theme=algolia&no-frame=true&column=4"/>
+</p>
 
 ---
 
@@ -85,6 +94,13 @@ Public Education Leader • Computer Engineering Student • Building solutions 
 💼 **LinkedIn**
 https://www.linkedin.com/in/jhon-natal/
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/profnatal/profnatal/output/github-contribution-grid-snake.svg"/>
+</p>
 ---
 
 > *"Technology creates greater impact when it helps improve public services and people's lives."*
